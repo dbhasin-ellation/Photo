@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Photos</string>
+    <string name="retrieve_error">Some Problem retrieving photos</string>
+</resources>
